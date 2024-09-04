@@ -1,22 +1,25 @@
+<h1 align="center">Hi there, I'm Seixass 🤙🏽</h1>
+<h3 align="center">Devoted Developer from Brazil 	</h3>
+<br>
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <div style="display: inline_block"><br>
-    <td valign="top" width="50%">
-      <h4 align="center">Streak Stats</h4>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+      <h4>Streak Stats</h4>
       <a href="https://github.com/seixass">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=seixass&theme=merko" alt="Streak Stats" />
       </a>
     </td>
-    <td valign="top" width="50%">
-      <h4 align="center">Most Used Languages</h4>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+      <h4>Most Used Languages</h4>
       <a href="https://github.com/seixass">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seixass&theme=merko&layout=compact" alt="Most Used Languages" />
       </a>
     </td>
-    </div>
   </tr>
 </table>
+
+
 
 <hr>
 
