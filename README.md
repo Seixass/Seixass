@@ -1,21 +1,18 @@
-<h1 align="center">Hi there, I'm Seixass 🤙🏽</h1>
-<h3 align="center">Devoted Developer from Brazil 	</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a800e2&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a800e2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Victor+Seixas;I'm+17+years+old;I+am+from+Maceió,+AL;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+
+<p align="center" >Olá! Eu sou Victor Seixas, tenho 17 anos e atualmente estou no terceiro ano do ensino médio. Estou cursando Técnico em Informática para a Internet no SENAI, em Maceió, Alagoas. Busco constantemente aprender e aprimorar minhas habilidades no desenvolvimento web e outras áreas da tecnologia.</p>
+
 <br>
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <h2 align="left">Estatistica GitHub 📊</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seixass&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seixass&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=seixass&show_icons=true&count_private=true&hide_border=true&title_color=a800e2&icon_color=a800e2&text_color=ffffff&bg_color=0d1117" alt="Seixass github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seixass&layout=compact&hide_border=true&title_color=a800e2&text_color=ffffff&bg_color=0d1117" />
 </div>
-  </tr>
-</table>
 
-
+<tr>
 <div style="display: inline_block">
 <h1>My Stacks</h1>
   <img align="center" alt="Seixass-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
