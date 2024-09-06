@@ -4,38 +4,35 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 50%; vertical-align: top; text-align: center;">
-      <h4>Streak Stats</h4>
-      <a href="https://github.com/seixass">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=seixass&theme=merko" alt="Streak Stats" />
-      </a>
-    </td>
-    <td style="width: 50%; vertical-align: top; text-align: center;">
-      <h4>Most Used Languages</h4>
-      <a href="https://github.com/seixass">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seixass&theme=merko&layout=compact" alt="Most Used Languages" />
-      </a>
-    </td>
+    <h2 align="left">Estatistica GitHub 📊</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seixass&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seixass&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
   </tr>
 </table>
 
 
-
-<hr>
-
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<h1>My Stacks</h1>
+  <img align="center" alt="Seixass-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Seixass-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Seixass-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Seixass-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align= "center" alt="Seixass-Nodejs"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"  />
+  <img align ="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40" alt="Seixass-mysql"  />
 </div>
+<br>
 
-<hr>
+
 
 <div> 
+  <h1>Contact with me</h1>
   <a href="https://instagram.com/seixinhxx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:victorseixasmcz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
-![Snake animation](https://github.com/seixass/seixass/blob/output/github-contribution-grid-snake.svg)
