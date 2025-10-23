@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=862fbb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Victor+Seixas;I'm+18+years+old;I+am+from+Maceió,+AL;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<p align="center" >Olá! Eu sou Victor Seixas, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas na UMJ (2/6). Sou cursado em Técnico em Informática para a Internet no SENAI, em Maceió, Alagoas. Busco constantemente aprender e aprimorar minhas habilidades no desenvolvimento web e outras áreas da tecnologia.</p>
+<p align="center" >Olá! Eu sou Victor Seixas, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas na UMJ (2/6). Sou cursado em Técnico em Informática para a Internet no SENAI, em Maceió, Alagoas. Busco constantemente aprender e aprimorar minhas habilidades no desenvolvimento web e outras áreas da tecnologia.</p>
 
 <br>
 
