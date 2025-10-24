@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=862fbb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Victor+Seixas;I'm+19+years+old;I+am+from+Maceió,+AL;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<p align="center" >Olá! Eu sou Victor Seixas, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas na UMJ (2/6). Sou cursado em Técnico em Informática para a Internet no SENAI, em Maceió, Alagoas. Busco constantemente aprender e aprimorar minhas habilidades no desenvolvimento web e outras áreas da tecnologia.</p>
+<p align="center" >Hello! I’m Victor Seixas, I’m 19 years old and currently pursuing a degree in Systems Analysis and Development at UMJ (2/6). I have completed a Technical course in Internet Informatics at SENAI, in Maceió, Alagoas. I’m constantly seeking to learn and improve my skills in web development and other areas of technology.</p>
 
 <br>
 
@@ -14,14 +14,6 @@
 
 
 <br>
-
-<div align="right">
-  
-![Gengar Pokémon GIF](gif's/pokemon-gengar.gif)
-
-</div>
-
-
 
 <tr>
 <div style="display: inline_block">
@@ -67,12 +59,8 @@
   <img width="12" />
 </div>
 
-###
+<div align="right" height="70">
+  ![Gengar Pokémon GIF](gif's/pokemon-gengar.gif)
+</div>
 
-<br clear="both">
-
-![GitHub contributions snake](https://raw.githubusercontent.com/victorseixasmcz/victorseixasmcz/main/output/github-contribution-grid-snake-dark.svg)
-
-
-###
 
