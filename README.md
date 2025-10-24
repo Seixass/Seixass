@@ -67,4 +67,11 @@
   <img width="12" />
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Seixass/Seixass/output/snake.svg" alt="Snake animation" />
+
+###
 
