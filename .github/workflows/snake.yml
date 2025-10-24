@@ -1,0 +1,27 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  
+  workflow_dispatch:        
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write             
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation (SVG)
+        uses: Platane/snk@v3
+        with:
+          username: 'Seixass'  
+          output: 'output/github-contribution-grid-snake-dark.svg'
+          format: 'svg'
+          # snake_color: '#00FF00'       # opcional: cor da serpente
