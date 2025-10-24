@@ -71,7 +71,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Seixass/Seixass/output/snake.svg" alt="Snake animation" />
+![GitHub contributions snake](https://raw.githubusercontent.com/victorseixasmcz/victorseixasmcz/main/output/github-contribution-grid-snake-dark.svg)
+
 
 ###
 
