@@ -59,8 +59,7 @@
   <img width="12" />
 </div>
 
-<div align="right" height="70">
-  ![Gengar Pokémon GIF](gif's/pokemon-gengar.gif)
-</div>
+![Gengar Pokémon GIF](gif's/pokemon-gengar.gif)
+
 
 
