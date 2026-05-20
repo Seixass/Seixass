@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=862fbb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Victor+Seixas;Full-Stack+Web+Developer;PHP+%7C+React+%7C+TypeScript;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">Hello! I'm Victor Seixas, a Full-Stack Web Developer from Maceió, Alagoas, Brazil. I'm currently pursuing a degree in Information Systems at CESMAC and have completed a Technical course in Internet Informatics at SENAI. I work with PHP backends (CakePHP & Laravel), React frontends, and Linux infrastructure. I'm constantly seeking to learn and improve my skills in web development and software architecture.</p>
+<p align="center">Hello! I'm Victor Seixas, a Full-Stack Web Developer from Maceió, Alagoas, Brazil. I'm currently pursuing a degree in Information Systems at CESMAC and have completed a Technical course in Internet Informatics at SENAI. I work with PHP backends (CakePHP), React frontends, and Linux infrastructure. I'm constantly seeking to learn and improve my skills in web development and software architecture.</p>
 
 <br>
 
@@ -38,8 +38,6 @@
 **Backend**
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="40" alt="cakephp logo" />
   <img width="12" />
