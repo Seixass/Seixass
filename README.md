@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=862fbb&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=862fbb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Victor+Seixas;Full-Stack+Web+Developer;PHP+%7C+React+%7C+TypeScript;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=862fbb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Victor+Seixas;Full-Stack+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">Hello! I'm Victor Seixas, a Full-Stack Web Developer from Maceió, Alagoas, Brazil. I'm currently pursuing a degree in Information Systems at CESMAC and have completed a Technical course in Internet Informatics at SENAI. I work with backends, React frontends, and Linux infrastructure. I'm constantly seeking to learn and improve my skills in web development and software architecture.</p>
 
