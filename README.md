@@ -55,7 +55,7 @@
 | Area | Skills |
 |------|--------|
 | **Frontend** | React, TypeScript, JavaScript, Next.js, HTML5, CSS3, UI/UX |
-| **Backend** | PHP, CakePHP, Laravel, Node.js, REST API Development |
+| **Backend** | PHP, CakePHP, Node.js, REST API Development |
 | **Database** | MySQL, PostgreSQL, Firebase / Firestore |
 | **Infrastructure** | Linux (Ubuntu/Mint), Networking, Cable Management, System Administration |
 | **Tools & Workflow** | Git, GitHub, VS Code, Docker basics, Agile / Scrum |
